@@ -24,7 +24,7 @@
       "name": "T3",
       "setup": "",
       "run": "python q2.py",
-      "input": "ccc\r\nbbb\r\na\r\naaa\r\nzzzz\r\nSTOP",
+      "input": "ccc\r\nbbb\r\naaa\r\na\r\nzzzz\r\nSTOP",
       "output": "[\\w,\\W]*zzzz[\\w,\\W]*a[\\w,\\W]*",
       "comparison": "regex",
       "timeout": 10,
